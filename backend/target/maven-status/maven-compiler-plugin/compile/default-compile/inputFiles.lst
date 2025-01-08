@@ -1,0 +1,8 @@
+/Users/jonibunguri/Documents/hr-managment-app/01-backend/hrmanager/src/main/java/com/nova/hrmanager/controller/IndexController.java
+/Users/jonibunguri/Documents/hr-managment-app/01-backend/hrmanager/src/main/java/com/nova/hrmanager/repository/EmployeeRepository.java
+/Users/jonibunguri/Documents/hr-managment-app/01-backend/hrmanager/src/main/java/com/nova/hrmanager/entity/Employee.java
+/Users/jonibunguri/Documents/hr-managment-app/01-backend/hrmanager/src/main/java/com/nova/hrmanager/controller/AddEmployeeController.java
+/Users/jonibunguri/Documents/hr-managment-app/01-backend/hrmanager/src/main/java/com/nova/hrmanager/service/AddEmployeeService.java
+/Users/jonibunguri/Documents/hr-managment-app/01-backend/hrmanager/src/main/java/com/nova/hrmanager/model/AddEmployeeRequest.java
+/Users/jonibunguri/Documents/hr-managment-app/01-backend/hrmanager/src/main/java/com/nova/hrmanager/webconfig/WebConfig.java
+/Users/jonibunguri/Documents/hr-managment-app/01-backend/hrmanager/src/main/java/com/nova/hrmanager/HrmanagerApplication.java
